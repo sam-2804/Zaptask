@@ -1,0 +1,9 @@
+
+
+-python 3.13.3
+-PySide6
+
+
+Download python from the official website
+Download PySide6 by running "pip install PySide6" in command prompt as administrator
+
